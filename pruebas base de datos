@@ -1,0 +1,4 @@
+#Listar los nombres de los usuarios 
+SELECT nombre FROM Usuarios
+#Calcular el saldo máximo de los usuarios de sexo “Mujer”
+
